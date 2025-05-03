@@ -19,7 +19,7 @@ Leave reviews and submit star ratings.
 
 ## Tech Stack
 
-Frontend & Backend: React.js, Node.js 
+Frontend & Backend: React.js, Express.js 
 
 DB: MySQL
 
